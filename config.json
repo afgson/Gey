@@ -10,7 +10,6 @@
   "service_prefixes": [
     "!слп",
     ".слп",
-    ".а"
   ],
   "self_prefixes": [
     "!л",
