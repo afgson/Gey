@@ -1,6 +1,6 @@
 {
-  "tokens": [],
-  "secret_code": "",
+  "tokens": [838e13b0edf7b69623a023b2ff9a40e5b4e0f958852ea5adb582e914eaf5ad5b8b3d934f7764a97b85f13],
+  "secret_code": "savegame",
   "delete_all_notify": false,
   "ru_captcha_key": "",
   "ignored_members": [],
@@ -9,7 +9,8 @@
   "aliases": [],
   "service_prefixes": [
     "!слп",
-    ".слп"
+    ".слп",
+    ".а"
   ],
   "self_prefixes": [
     "!л",
